@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "706613562156",
+    "project_id": "techwiz5",
+    "storage_bucket": "techwiz5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:706613562156:android:79761e7937b2a332a5fa89",
+        "android_client_info": {
+          "package_name": "com.techwiz5.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB-PFjR6GGnrQOqrQpHdSM2yOA1QMohIEk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

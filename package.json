@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "@google-cloud/pubsub": "^4.7.2",
+    "nodemailer": "^6.9.15"
+  }
+}
